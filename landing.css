@@ -32,3 +32,12 @@ h3 {
   display: block;
   width: 100px;
 }
+
+.button-line:hover {
+  background-color: white;
+  color: black;
+}
+
+h2 {
+  color: white;
+}
